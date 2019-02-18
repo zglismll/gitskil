@@ -7,3 +7,4 @@ nnnnkkkk
 kkkk
 kkkkkkkkkkk
 hhhhhhhhhhhhh
+Creating a new branch is quick AND simple.
